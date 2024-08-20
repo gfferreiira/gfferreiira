@@ -2,7 +2,7 @@
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gfferreiira)](https://github.com/gfferreiira)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-ferreira/)](https://www.linkedin.com/in/guilherme-ferreira0898b3288/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-ferreira/)](https://www.linkedin.com/in/guilherme-ferreira-0898b3288/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo-=instagram&logoColor=white&link=https://www.instagram.com/g.fferreiira/)](https://www.instagram.com/g.fferreiira/)
 
 <a href="https://www.instagram.com/g.fferreiira" alt="Instagram" target="_blank">
