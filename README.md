@@ -15,6 +15,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gfferreiira&layout=compact&theme=dark)](https://github.com/gfferreiira/github-readme-stats)
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=gfferreiira&hide=html&layout=compact&theme=default)](https://github.com/gfferreiira/github-readme-stats)
 
 
