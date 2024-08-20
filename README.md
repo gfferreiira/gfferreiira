@@ -1,16 +1,14 @@
-## Hi there 👋
+## Olá, me chamo Guilherme Ferreira 👋
 
-<!--
-**gfferreiira/gfferreiira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gfferreiira)](https://github.com/gfferreiira)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-ferreira/)](https://www.linkedin.com/in/guilherme-ferreira/)
+<a href="https://www.instagram.com/g.fferreiira" alt="Instagram" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/g.fferreiira">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gfferreiira&layout=compact)](https://github.com/gfferreiira/github-readme-stats)
+
+### About me
+
+- 👨🏼‍🏫 - Atualmente estou no 3° modulo do curso de Desenvolvimento de Sistemas do Centro Paula Souza (ETEC Horácio) 
