@@ -1,4 +1,4 @@
-## Olá, me chamo Guilherme Ferreira 👋
+## Hi, I'Am Guilherme Ferreira 👋
 
 ### About me
 
