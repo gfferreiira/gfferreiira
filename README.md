@@ -1,22 +1,37 @@
-## Hi, I'Am Guilherme Ferreira 👋
+##  Hi, I'Am Guilherme Ferreira 👋
 
-### About me
-
+## About me
+- 💬 - Me chamo Guilherme Ferreira Oliveira e atualmente tenho 19 anos
+  
 - 👨🏼‍🏫 - Atualmente estou no 3° modulo do curso de Desenvolvimento de Sistemas do Centro Paula Souza (ETEC Horácio)
+  
+- 📫 - **guilherme.fferreiira@gmail.com**
 
 
 
-### Contact
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gfferreiira)](https://github.com/gfferreiira)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-ferreira/)](https://www.linkedin.com/in/guilherme-ferreira-0898b3288/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo-=instagram&logoColor=white&link=https://www.instagram.com/g.fferreiira/)](https://www.instagram.com/g.fferreiira/)
+## Contact
+<p align="left">
+<a href="https://linkedin.com/in/guilherme-ferreira-0898b3288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guilherme ferreira 0898b3288" height="30" width="40" /></a>
+<a href="https://instagram.com/g.fferreiira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="g.fferreiira" height="30" width="40" /></a>
+</p>
+
+##
 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gfferreiira&layout=compact&theme=dark)](https://github.com/gfferreiira/github-readme-stats)
 
-##                                              Languages and Tools:
-<img src=" https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50px">
-
-
+ ## 🚀 Languages and Tools:   
+ 
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original-wordmark.svg" width="40" height="40"/>
+          
+          
+</div>    
 
