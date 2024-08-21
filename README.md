@@ -1,7 +1,7 @@
 ##  Hi, I'Am Guilherme Ferreira 👋
 
 ## About me
-- 💬 - Me chamo Guilherme Ferreira Oliveira e atualmente tenho 19 anos
+- 💬 - Me chamo Guilherme Ferreira Oliveira e tenho 19 anos
   
 - 👨🏼‍🏫 - Atualmente estou no 3° modulo do curso de Desenvolvimento de Sistemas do Centro Paula Souza (ETEC Horácio)
   
